@@ -28,7 +28,7 @@ if (getenv('DB_NAME')) {
   define('DB_HOST',getenv('DB_HOST'));
 } else {
   // These are the values used in production.
-  define( 'DB_NAME', 'dopazoin_ezjanitorialbond' );
+  define( 'DB_NAME', 'dopazoin_ezcontractorbonds' );
   define( 'DB_USER', 'dopazoin_omamne' );
   define( 'DB_PASSWORD', '6w0(!w6uSp' );
   define( 'DB_HOST', 'localhost' );
@@ -96,8 +96,8 @@ if (getenv('URL')) {
   define('WP_HOME',getenv('URL'));
   define('WP_SITEURL',getenv('URL'));
 } else {
-  define('WP_HOME','https://www.ezjanitorialbond.com');
-  define('WP_SITEURL','https://www.ezjanitorialbond.com');
+  define('WP_HOME','https://www.ezcontractorbonds.com');
+  define('WP_SITEURL','https://www.ezcontractorbonds.com');
 }
 
 /** Absolute path to the WordPress directory. */

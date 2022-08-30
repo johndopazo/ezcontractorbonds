@@ -1,5 +1,5 @@
 import_db:
-	@docker-compose cp dopazoin_ezjanitorialbond.sql mysql:/db.sql
+	@docker-compose cp dopazoin_ezcontractorbonds.sql mysql:/db.sql
 	@docker-compose exec mysql bash -c "mysql -proot dopazo < /db.sql"
 
 mysql:
@@ -18,10 +18,10 @@ ssh:
 
 download:
 	# Downloading site locally.
-	@ssh -p 7822 dopazoin@185.132.5.141 tar czvf /home/dopazoin/ezjanitorialbond.tar.gz /home/dopazoin/ezjanitorialbond.com
-	@scp -P 7822 dopazoin@185.132.5.141:/home/dopazoin/ezjanitorialbond.tar.gz .
-	@tar xvf ezjanitorialbond.tar.gz
-	@cp -rf home/dopazoin/ezjanitorialbond.com/* .
+	@ssh -p 7822 dopazoin@185.132.5.141 tar czvf /home/dopazoin/ezcontractorbonds.tar.gz /home/dopazoin/ezcontractorbonds.com
+	@scp -P 7822 dopazoin@185.132.5.141:/home/dopazoin/ezcontractorbonds.tar.gz .
+	@tar xvf ezcontractorbonds.tar.gz
+	@cp -rf home/dopazoin/ezcontractorbonds.com/* .
 	@rm -rf home
-	@rm ezjanitorialbond.tar.gz
+	@rm ezcontractorbonds.tar.gz
 	# Done downloading entire site.

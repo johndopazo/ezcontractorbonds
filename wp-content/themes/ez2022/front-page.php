@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-  <div class="container col-xxl-8 px-4">
+  <div class="container col-xxl-8 px-4 hero">
     <div class="row flex-lg-row align-items-center g-5 py-5">
       <div class="col-12 col-lg-6">
         <img src="/wp-content/uploads/2022/03/EZ-Janitor-Bond-Logo-500px-PNG.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500">
@@ -16,14 +16,8 @@
           like that, your employees are bonded.
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <ul class="nav nav-pills mt-3">
-            <li class="nav-item">
-              <a class="nav-link active" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1621">Bid Bonds</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link active" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1495">Contract Bonds</a>
-            </li>
-          </ul>
+          <a class="btn btn-primary" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1621">Bid Bonds</a>
+          <a class="btn btn-primary" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1495">Contract Bonds</a>
         </div>
       </div>
     </div>

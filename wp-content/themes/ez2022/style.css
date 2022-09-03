@@ -48,27 +48,16 @@ h3 {
   border-color: #1A97D8;
 }
 
+.hero a.btn-primary {
+  font-size: 1.2rem;
+}
+
 div.wpforms-container-full .wpforms-form button[type=submit] {
   background-color: #41bb69;
   border-color: #41bb69;
   border-radius: 0.3rem;
   color: #fff;
   padding: 0.5rem 1rem;
-}
-
-.widget .card-title {
-  font-weight: 700;
-}
-
-.widget .card {
-  margin: 0.5rem;
-  background-image: linear-gradient( 135deg, #ccc 14%,#eee 56%, #ccc 100%)
-}
-
-@media screen and (min-width: 767px) {
-  .widget .card {
-    width: 12rem;
-  }
 }
 
 p, li {

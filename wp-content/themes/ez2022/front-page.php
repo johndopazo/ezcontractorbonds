@@ -16,8 +16,8 @@
           like that, your employees are bonded.
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-          <a class="btn btn-primary" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1621">Bid Bonds</a>
-          <a class="btn btn-primary" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1495">Contract Bonds</a>
+          <a class="btn btn-primary" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1621" target="_blank">Bid Bonds</a>
+          <a class="btn btn-primary" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1495" target="_blank">Contract Bonds</a>
         </div>
       </div>
     </div>

@@ -18,118 +18,12 @@
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <ul class="nav nav-pills mt-3">
             <li class="nav-item">
-              <button class="nav-link active" id="fileorless-tab" data-bs-toggle="tab" data-bs-target="#fiveorless" type="button" role="tab">5 or Less Employees</button>
+              <a class="nav-link active" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1621">Bid Bonds</a>
             </li>
             <li class="nav-item">
-              <button class="nav-link" id="sixormore-tab" data-bs-toggle="tab" data-bs-target="#sixormore" type="button" role="tab">6 or More Employees</button>
+              <a class="nav-link active" href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=1495">Contract Bonds</a>
             </li>
           </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="container col-xxl-10 widget ps-5 pe-5">
-    <div class="row">
-      <div class="tab-content mb-5" id="myTabContent">
-        <div class="tab-pane fade show active" id="fiveorless" role="tabpanel">
-          <div class="row justify-content-center">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$100 Premium</h5>
-                <p class="card-text">$5,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3977" 
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$110 Premium</h5>
-                <p class="card-text">$10,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3974"
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$160 Premium</h5>
-                <p class="card-text">$25,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3970"
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$232 Premium</h5>
-                <p class="card-text">$50,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3966"
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$312 Premium</h5>
-                <p class="card-text">$100,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=5356"
-                >Buy Now</a>
-              </div>
-            </div>
-            <p class="d-inline-flex justify-content-center text-black-50">Bonds for businesses with 5 or less employees.</p>
-          </div>
-        </div>
-        <div class="tab-pane fade show" id="sixormore" role="tabpanel">
-          <div class="row justify-content-center">
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$110 Premium</h5>
-                <p class="card-text">$5,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3978" 
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$154 Premium</h5>
-                <p class="card-text">$10,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3954" 
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$220 Premium</h5>
-                <p class="card-text">$25,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3957" 
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$319 Premium</h5>
-                <p class="card-text">$50,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3979"
-                >Buy Now</a>
-              </div>
-            </div>
-            <div class="card">
-              <div class="card-body">
-                <h5 class="card-title">$429 Premium</h5>
-                <p class="card-text">$100,000 Bond</p>
-                <a class="btn btn-primary" target="_blank"
-                  href="https://dopazoinsurance.propeller.insure/axelerator-public/RQ100004B70?bond_id=3961"
-                >Buy Now</a>
-              </div>
-            </div>
-            <p class="d-inline-flex justify-content-center text-black-50">Bonds for businesses with 6 or more employees.</p>
-          </div>
         </div>
       </div>
     </div>
